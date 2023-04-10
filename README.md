@@ -126,3 +126,5 @@ following:
 
 [available settings]: https://msp-greg.github.io/sinatra/file.README.html#available-settings
 [as_json]: https://api.rubyonrails.org/classes/ActiveModel/Serializers/JSON.html#method-i-as_json
+
+https://github.com/G3o-R/phase-3-sinatra-with-active-record-get-lab
